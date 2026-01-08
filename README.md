@@ -1,6 +1,6 @@
+# 💫 About Me:
+I am Tejas 👋<br>A 2nd-year B.Tech student currently working as a Full Stack Developer (MERN Stack) and learning to build modern, real-world web applications.
 
-
-                                                I'm Tejas 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamolatejas1006@gmail.com) 
