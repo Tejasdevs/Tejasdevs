@@ -1,6 +1,6 @@
 
-I'm Tejas 
 
+                                                I'm Tejas 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamolatejas1006@gmail.com) 
