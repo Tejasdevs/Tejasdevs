@@ -1,15 +1,6 @@
 # 💫 About Me:
 A 2nd-year B.Tech student passionate about Web Development and building modern, real-world web applications. I enjoy creating clean, responsive, and user-friendly websites.
-
 I am continuously learning and improving my skills to become a better Web Developer and build impactful digital products.
-
-## 🌐 Socials:
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamolatejas1006@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://tejas-dev-portfolio.vercel.app/)
-
----
 
 # 💻 Tech Stack:
 
