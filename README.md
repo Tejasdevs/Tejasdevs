@@ -2,6 +2,7 @@
 A 2nd-year B.Tech student passionate about Web Development and building modern, real-world web applications. I enjoy creating clean, responsive, and user-friendly websites.
 I am continuously learning and improving my skills to become a better Web Developer and build impactful digital products.
 
+---
 # 💻 Tech Stack:
 
 ## 🖥️ Frontend
