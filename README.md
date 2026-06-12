@@ -1,8 +1,11 @@
 # 💫 About Me:
-A 2nd-year B.Tech student passionate about Web Development and building modern, real-world web applications. I enjoy creating clean, responsive, and user-friendly websites.
-I am continuously learning and improving my skills to become a better Web Developer and build impactful digital products.
+
+A 2nd-year B.Tech Computer Science student passionate about Web Development, AI Red Teaming, and building real-world applications. I enjoy creating clean, responsive, and user-friendly web experiences while continuously exploring new technologies and improving my problem-solving skills.
+
+My experience includes frontend development, database management, Java programming, AI model evaluation, prompt engineering, and AI red teaming. I actively build projects, experiment with modern tools, and focus on turning ideas into practical digital solutions.
 
 ---
+
 # 💻 Tech Stack:
 
 ## 🖥️ Frontend
@@ -15,6 +18,7 @@ I am continuously learning and improving my skills to become a better Web Develo
 ## ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🗄️ Database
 
@@ -43,6 +47,7 @@ I am continuously learning and improving my skills to become a better Web Develo
 ## 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
