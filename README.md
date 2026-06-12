@@ -51,21 +51,9 @@ My experience includes frontend development, database management, Java programmi
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Tejasdevs&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
----
-
 # 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tejasdevs&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Tejasdevs&theme=github-dark&hide_border=true)
 
 ---
 
