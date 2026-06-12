@@ -55,14 +55,7 @@ My experience includes frontend development, database management, Java programmi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tejasdevs&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
----
 
-# 📊 Languages Used
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasdevs&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-# 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Tejasdevs&icon=0&color=0)](https://visitcount.itsvg.in)
