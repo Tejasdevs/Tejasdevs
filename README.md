@@ -52,9 +52,7 @@ My experience includes frontend development, database management, Java programmi
 ---
 
 # 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejasdevs&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasdevs&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
