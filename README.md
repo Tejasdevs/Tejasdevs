@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-A 2nd-year B.Tech Computer Science student passionate about Web Development, AI Red Teaming, and building real-world applications. I enjoy creating clean, responsive, and user-friendly web experiences while continuously exploring new technologies and improving my problem-solving skills.
-
-My experience includes frontend development, database management, Java programming, AI model evaluation, prompt engineering, and AI red teaming. I actively build projects, experiment with modern tools, and focus on turning ideas into practical digital solutions.
-
+Web Developer & AI Red Teamer passionate about building modern digital experiences, testing intelligent systems, and turning ideas into impactful products
 ---
 
 # 💻 Tech Stack:
