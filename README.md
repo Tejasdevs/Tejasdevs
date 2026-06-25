@@ -20,6 +20,8 @@ Web Developer & AI Red Teamer passionate about building modern digital experienc
 ## 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ## 🧠 AI & Prompting
 
