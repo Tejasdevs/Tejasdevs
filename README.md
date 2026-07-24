@@ -55,7 +55,7 @@ Web Developer & AI Red Teamer passionate about building modern digital experienc
 ---
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tejasdevs&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tejasdevs&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 
