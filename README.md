@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Web Developer & AI Red Teamer passionate about building modern digital experiences, testing intelligent systems, and turning ideas into impactful products
+Web Developer & AI Red Teamer passionate about building modern digital experiences, testing intelligent systems, and turning ideas into impactful products.
 ---
 
 # 💻 Tech Stack:
