@@ -29,8 +29,9 @@ Web Developer & AI Red Teamer passionate about building modern digital experienc
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge)
 ![AI Red Teaming](https://img.shields.io/badge/AI%20Red%20Teaming-FF4B4B?style=for-the-badge)
+![AI Blue Teaming](https://img.shields.io/badge/AI%20Blue%20Teaming-2563EB?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-7B1FA2?style=for-the-badge)
-![Prompt Injection Testing](https://img.shields.io/badge/Prompt%20Injection%20Testing-00897B?style=for-the-badge)
+![LLM Security](https://img.shields.io/badge/LLM%20Security-7C3AED?style=for-the-badge)
 
 ## 🚀 Deployment & Hosting
 
