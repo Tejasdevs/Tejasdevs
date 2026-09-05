@@ -50,7 +50,6 @@ Web Developer & AI Red Teamer passionate about building modern digital experienc
 
 ![SEO Optimization](https://img.shields.io/badge/SEO%20Optimization-0F766E?style=for-the-badge)
 ![Botpress](https://img.shields.io/badge/Botpress-00AEEF?style=for-the-badge&logo=botpress&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-2F6BFF?style=for-the-badge&logo=bubble&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
