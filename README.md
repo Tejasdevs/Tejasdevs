@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Web Developer & AI Red Teamer crafting next-gen digital experiences, stress-testing intelligent systems, and transforming bold ideas into innovative, high-impact products
+Web Developer & AI Testing Enthusiast, currently learning LLMOps. Building next-gen digital experiences, testing AI systems for reliability and security, and turning bold ideas into innovative, high-impact products.
 ---
 
 # 💻 Tech Stack:
