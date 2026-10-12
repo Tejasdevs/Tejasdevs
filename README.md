@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer & AI Testing Enthusiast | Learning LLMOps | Building impactful digital experiences and testing AI for reliability & security.
+Web Developer & AI Testing Enthusiast | Learning LLMOps | Building impactful digital experiences and testing AI for reliability & security
 ---
 
 # 💻 Tech Stack:
